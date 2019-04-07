@@ -1,0 +1,11 @@
+AutoGrad
+foo*
+data/**
+!data/README
+*~
+setup.sh
+.julia
+.juliahistory
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
